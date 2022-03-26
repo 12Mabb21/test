@@ -2,7 +2,7 @@ let phrases = [
   { text: 'отправить другу меню ресторана', image: 'premium-icon-restaurant-5921708.png' },
   { text: 'посмотреть на цены видеокарт', image: 'free-icon-graphic-card-908725.png' },
   { text: 'разобраться в коде', image: 'male-head-side-view-with-cogwheels-thinking-about-dollar-symbol.png' },
-  { text: 'Геймпад', image: 'console.png' },
+  { text: 'Геймпад???', image: 'console.png' },
   { text: 'расставить книги на полке по названию', image: 'book.png' },
   { text: 'читать про зарплаты в Франции', image: 'flag.png' },
   { text: 'прочитать новости о России с Украиной', image: 'conflict.png' },
